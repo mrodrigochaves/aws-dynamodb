@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pearl Jam"},
+                  "SongTitle": {"S": "Even Flow"},
+                  "AlbumTitle": {"S": "Ten"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pearl Jam"},
+                  "SongTitle": {"S": "Alive"},
+                  "AlbumTitle": {"S": "Ten"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pearl Jam"},
+                  "SongTitle": {"S": "Jeremy"},
+                  "AlbumTitle": {"S": "Ten (Redux)"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        }
+      ]
+}

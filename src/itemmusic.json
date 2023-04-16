@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Pearl Jam"},
+  "SongTitle": {"S": "Jeremy"},
+  "AlbumTitle": {"S": "Ten"},
+  "SongYear": {"S": "1991"}
+}
